@@ -6,4 +6,4 @@
 
 # thank you
 
-people
+To all people
