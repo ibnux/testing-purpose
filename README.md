@@ -8,7 +8,4 @@
 
 To all people
 
-hello world
-
-haha
-hehe
+hello wor
